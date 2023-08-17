@@ -3,6 +3,9 @@
 
 ###
 
+![image](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/3c41352f-4661-4ca1-a8bd-46e771dbecf1)
+
+
 <h3 align="left">🔥   My Stats  & Streaks :</h3>
 
 ###
