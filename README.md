@@ -9,7 +9,7 @@
 
 <div align="left">
   <img align="right" height="180" src="https://github-production-user-asset-6210df.s3.amazonaws.com/106701723/258256344-a9b691b7-57ec-47b8-bcd6-0b6aa157f892.gif"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalisnetwork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalisnetwork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kalisnetwork&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kalisnetwork&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
