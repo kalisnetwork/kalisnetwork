@@ -4,7 +4,8 @@
 ###
 
 
-![githubbanner](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/6cdff43c-99b7-4899-89ea-866d36fb0c95)
+![githubbanner](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/a0d5317f-3b7c-4a98-b522-89241075b5a8)
+
 
 
 
