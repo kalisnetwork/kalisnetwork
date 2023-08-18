@@ -2,7 +2,11 @@
 
 
 ###
-![banner_page-0001](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/a33c623b-f225-4d8f-bf62-fb1defb2f1f8)
+
+
+https://github.com/kalisnetwork/kalisnetwork/assets/106701723/da8745ec-32cb-4027-bebc-9677d2902172
+
+
 
 <h3 align="left">🔥   My Stats  & Streaks :</h3>
 
