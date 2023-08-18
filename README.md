@@ -5,6 +5,7 @@
 
 ![image](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/3c41352f-4661-4ca1-a8bd-46e771dbecf1)
 
+![github-banner](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/11e34af0-40d9-4146-89a1-8d515dd27c67)
 
 <h3 align="left">🔥   My Stats  & Streaks :</h3>
 
