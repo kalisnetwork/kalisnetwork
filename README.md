@@ -21,19 +21,6 @@
   <img src="https://streak-stats.demolab.com?user=kalisnetwork&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
 </div>
 
-###
-<h4 align="left">
-  🔭 I’m currently working on Nerdy Geek's Project<br>
-  <br>🌱 I’m currently learning React, Next.js, Flutter,...<br>
-  <br>👀 I’m looking for web developer Job Opportunity<br>
-  <br>🤝 I’m looking for help with Collars on Duty<br>
-  <br>👨‍💻 All of my projects are available at https://kalisdev.vercel.app/<br>
-  <br>📝 I regularly write articles on https://kalisdev.vercel.app/#blog<br>
-  <br>💬 Ask me about React, HTML, CSS, JS, Hacking<br>
-  <br>📫 How to reach me kalyankodisha@gmail.com<br>
-  <br>⚡ Fun fact I think I am always good.</h4>
-
-  ###
 <h3 align="left">🛠 Languages and Tools :</h3>
 
 <div align="left">
