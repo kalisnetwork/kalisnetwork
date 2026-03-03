@@ -14,7 +14,6 @@
 ### 👨‍💻 About Me
 I am a **Full Stack Developer** and MCA student based in **Hyderabad, India**. I specialize in building scalable web applications and server management. You might know me online as **kalis** or **kalisnetwork**.
 
-* 🚀 Currently working on: **SAKHI App** and **Nexus Platform**.
 * 🛠️ Expert in: **Node.js, Python, VPS Management, and PM2**.
 * 🎓 Education: Pursuing Master of Computer Applications at Aurora PG College.
 * ⚡ Fun fact: I enjoy making homemade wine and exploring transgressive cinema.
