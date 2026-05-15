@@ -21,7 +21,7 @@ I am a **Full Stack Developer** and MCA student based in **Hyderabad, India**. I
 ---
 
 ### 📊 My Projects & Skills
-//![githubbanner](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/7c518c08-836f-47a0-8867-1f30af42a166)
+<!--![githubbanner](https://github.com/kalisnetwork/kalisnetwork/assets/106701723/7c518c08-836f-47a0-8867-1f30af42a166) -->
 
 - **[Content Aggregator](https://github.com/kalisnetwork/content-aggregator):** A Python tool for news fetching.
 - **[Mood Recommendation Bot](https://github.com/kalisnetwork/Movies-Mood-Recommendation-Bot):** AI-powered movie suggestions based on user mood.
